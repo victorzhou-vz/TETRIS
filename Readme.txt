@@ -52,6 +52,7 @@ Pour les instructions "left" et "right", si la pièce peut aller à gauche ou à
 
 La limite de la grille de TETRIS est la ligne juste en dessous du spawn (l'appartition) de la pièce.
 Dès qu'une pièce touche cette ligne alors la partie est finie "GAME OVER" et le jeu se relance.
+Quand le jeu se relance la main est toujours donné au joueur 1 (client 1).
 
 Si une ligne est remplie de cases de couleurs (ligne complète) alors la ligne disparaît et les blocs se trouvant dans les lignes au-dessus de la ligne complète tombe tous d'une ligne (d'une case).
 Même chose si plusieurs lignes sont complètes en même temps.
@@ -119,6 +120,7 @@ Pour les instructions "left" et "right", si la pièce peut aller à gauche ou à
 
 La limite de la grille de TETRIS est la ligne juste en dessous du spawn (l'appartition) de la pièce.
 Dès qu'une pièce touche cette ligne alors la partie est finie "GAME OVER" et le jeu se relance.
+Quand le jeu se relance la main est toujours donné au joueur 1 (client 1).
 
 Si une ligne est remplie de cases de couleurs (ligne complète) alors la ligne disparaît et les blocs se trouvant dans les lignes au-dessus de la ligne complète tombe tous d'une ligne (d'une case).
 Même chose si plusieurs lignes sont complètes en même temps.
